@@ -1,0 +1,10 @@
+<TABLE>
+	<CONFIGDTLS>
+		<ROW ModuleID="DATAHUB" ParameterID="URL">https://www.google.com</ROW>
+		<ROW ModuleID="DATAHUB" ParameterID="NEWUSER_COUNT">9</ROW>
+		<ROW ModuleID="FORGOT" ParameterID="USER">testauto9</ROW>
+		<ROW ModuleID="FORGOT" ParameterID="PASSWORD">gDE3FBQAPw2!</ROW>
+		<ROW ModuleID="ORDER" ParameterID="ORDERID">g124667</ROW>
+		<ROW ModuleID="LOGIN" ParameterID="ERROR">NULL</ROW><ROW ModuleID="VIEW_MP" ParameterID="SCRIPT_ID">DownloadMeteredData_01</ROW><ROW ModuleID="VIEW_MP" ParameterID="STEP">9</ROW><ROW ModuleID="VIEW_MP" ParameterID="TABLE">SCR_CreateSpecialMP</ROW><ROW ModuleID="SEARCH_MP" ParameterID="SCRIPT_ID">DownloadMeteredData_01</ROW><ROW ModuleID="SEARCH_MP" ParameterID="STEP">20</ROW><ROW ModuleID="SEARCH_MP" ParameterID="TABLE">SCR_SearchMeteringPoint</ROW><ROW ModuleID="SEARCH_MP" ParameterID="ERRMSG">NULL</ROW></CONFIGDTLS>
+
+</TABLE>

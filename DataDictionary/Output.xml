@@ -1,0 +1,37 @@
+<TABLE>
+	<OUTPUTDTLS>
+		<ROW ModuleID="COSMIC" ParameterID="BATCHRUNNER">BATCH COMPLETED</ROW>
+		<ROW ModuleID="BATCHRUNNER" ParameterID="STATUS">SUCCESS</ROW>
+		<ROW ModuleID="DRIVER" ParameterID="NAME">FRAMEWORK</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="CLIENTPATH">C:\Cosmic_Klienter\intern\RSD\TEST_2.1\client-2-1-16-HF4-027\Application</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="USERNAME1">autoadmin3</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="PASSWORD1">autoadmin32</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="USERNAME2">doctor2</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="PASSWORD2">doctor21</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="ROLE1">Regional administrator</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="ROLE2">Lægefagligt personale</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="ROLE3">Sekretær</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="UNIT1">OUH Øre-, Næse- og Hals Afdeling F (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="UNIT2">09 OUH Geriatrisk Afd. G (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="UNIT3">30 SLB Øre- Næse- Hals Afdeling (Vejle)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="GUNIT">G Geriatrisk Ambulatorium</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="GUNIT_OUH">OUH Geriatrisk Afsnit G (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="GUNIT1">OUH Geriatrisk Afsnit G1 (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="GUNIT2">OUH Geriatrisk Afsnit G2 (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="FUNIT">F - Ambulatorium</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="FUNIT1">OUH Øre-, Næse- og Hals Afsnit F (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="FUNIT2">OUH Øre-, Næse- og Hals Afsnit F2 (Odense)</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="CREATEPRESC">1902770902</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="REFERRAL">0503812846</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="DISCHARGE">1902790949</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="REGISTERDIAGNOSIS">1902780951</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="EPJREFERRAL">1902780903</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="REFCPR">1902771053</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="REF_CPR">1902771053</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="SLB_DISCHARGELETTER">2802781014</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="BOOKING_CPR">2602790738</ROW>
+		<ROW ModuleID="SMOKETEST" ParameterID="DISCHARGELETTEROUH">2602770622</ROW>
+		<ROW ModuleID="SERVER" ParameterID="CLIENTPATH">C:\COSMIC_KLIENTER\INTERN\RSD\TEST_2.1_DRIFT_VERSION\CLIENT-2-1-17-10-HF4-032\Application\StartCosmic.exe</ROW>
+		<ROW ModuleID="CLIENT" ParameterID="ENVIRONMENT">INTERN</ROW>
+		<ROW ModuleID="BATCH" ParameterID="START_TIME">38147.84</ROW></OUTPUTDTLS>
+</TABLE>

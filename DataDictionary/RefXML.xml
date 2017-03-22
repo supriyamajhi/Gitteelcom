@@ -1,0 +1,7 @@
+<TABLE>
+	<CONFIGDTLS>
+		<ROW ModuleID="DATAHUB" ParameterID="URL">https://www.preprod.datahub.dk/sites/CEMS/_Layouts/ApplicationPages/Login.aspx</ROW>	
+		<ROW ModuleID="FORGOT" ParameterID="USER"></ROW>
+		<ROW ModuleID="FORGOT" ParameterID="PASSWORD"></ROW>			
+	</CONFIGDTLS>
+</TABLE>
